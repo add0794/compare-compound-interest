@@ -10,7 +10,7 @@ def interest(P: int, r: float, n: int, t: int) -> float:
 
 # Get a numpy array using the interest function
 
-principal = int(input("How much money do you plan in investing? ")) # The principal can only be an integer.
+principal = int(input("How much money do you plan in investing? ")) # The principal can only be an integer
 times_per_year = int(input("How often will the interest be compounded per year? "))
 years = int(input("How many years do you plan on investing for? "))
 low_interest_str = input("What's the lowest interest rate you're willing to take? ")
