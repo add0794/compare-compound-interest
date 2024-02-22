@@ -1,4 +1,4 @@
-# compare-compound-interest
+# Compare Compound Interest
 
 Would you like to automate how you calculate compound interest? Sometimes, Excel is not enough, or if it is, it can be tedious. 
 
